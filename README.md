@@ -5,6 +5,6 @@
 5. Kasutusel on 4 erinevat heliklippi, mängu algus, igakord kui kasutaja vajutab klahvi, mängu lõpp, vajutades nupule "Näita tulemusi".
 6. Lisatud on "Mängi uuesti" nupp, mis viib tagasi algus lehele. Enne countdowni Tervitatakse kasutajat nimepidi (Tere, [kasutajanimi]!), peale igat korrektselt kirjutatud sõna välgub sõnade taust roheliselt.
 
-
+Autor: Mirko Aadva
 
 
